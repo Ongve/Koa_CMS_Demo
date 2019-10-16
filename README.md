@@ -18,7 +18,7 @@
 
 登录验证（验证码功能尚未实现）、封装DB库/DB单例、用户登录状态权限管理、内容的增/删/改/查、前端页面模块化
 
-## 在线预览（点击图片可查看大图）：
+## 预览（点击图片可查看大图）：
 
 ### 后台登录页
 
@@ -37,7 +37,7 @@
 
 ``` bash
 # clone the repo into your disk.
-$ git clone https://github.com/Ongve/Koa_CMS_Demo
+$ git clone https://github.com/xhwgood/Koa_CMS_Demo
 
 # install dependencies
 $ npm install
