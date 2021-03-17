@@ -1,7 +1,7 @@
-var router=require('koa-router')()
+var router = require('koa-router')()
 
-router.get('/',async(ctx)=>{
-    ctx.body='api接口'
+router.get('/', async (ctx) => {
+    ctx.body = 'api接口'
 })
 
-module.exports=router.routes()
+module.exports = router.routes()

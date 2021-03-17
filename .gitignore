@@ -1,0 +1,19 @@
+# System
+.DS_Store
+
+# IDEA
+.vscode
+.idea
+
+# packages
+package-lock.json
+node_modules
+bower_components
+
+# build
+dist
+
+# logs
+npm-debug.log
+yarn-error.log
+yarn-debug.log
